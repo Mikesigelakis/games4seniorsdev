@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GameScenes/LavaGameScenes/menuSceneLavaGame.unity
+    guid: f7f3a4cb961d3144983395ab97c5386e
+  - enabled: 1
+    path: Assets/GameScenes/LavaGameScenes/gameSceneLavaGame.unity
+    guid: 1c40ed667e2dc3743bf995c9c9de3194
+  - enabled: 1
+    path: Assets/GameScenes/DiceMazeAssets/diceMazePlayScene.unity
+    guid: 03fd15faa19a4f54a94f3d31e6326993
+  - enabled: 1
+    path: Assets/GameScenes/DiceMazeAssets/diceMazeMenuScene.unity
+    guid: 4ffb883d8581f8e4c835a0d96fe88fd5
+  - enabled: 1
+    path: Assets/GameScenes/FitTheBoxScenes/fitTheBoxScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/GameScenes/MainScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/Menu.unity
+    guid: 4a471068cb8ea9243a009a53d8c16492
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/Launch.unity
+    guid: 156769cb5d491fd4b906276e4fab73df
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/Victory.unity
+    guid: 1cfcf937e89914549b7e65fbca2cbd43
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ADifficulty/ADifficulty.unity
+    guid: bb49884914db6a4448f8a4fcd0002011
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ADifficulty/ADifficultyB.unity
+    guid: c9fadf0d35fe8aa4d929eaa0f34a6259
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ADifficulty/ADifficultyC.unity
+    guid: d3387ab8385543943a3fe5928160edbf
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAA.unity
+    guid: cc3e9fcedcc354d4b8d4d26b2f1a1d6b
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAB.unity
+    guid: b93a3385fe9ffe648a97153ef34a6b46
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAC.unity
+    guid: 5b3a5f83e398c9840864600b360e0391
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAD.unity
+    guid: bf26cdc7cdba2bf4b88ce95499c19184
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAE.unity
+    guid: f3f7be930fb1d074bb20c238b7002f0f
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAF.unity
+    guid: f5ba3c9af11464a47aeecd3b381f9618
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAG.unity
+    guid: f983a12c754a1ad49acdc6e626c7cb47
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAH.unity
+    guid: ea0e99cd9bdb95649a98495f4ce26803
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAI.unity
+    guid: b80bf11033dd5d849a6d0632e5c40460
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAJ.unity
+    guid: e47ce30f6b8c33343b281d4294b4ba1f
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAK.unity
+    guid: fdf66b172403be24eab2acd8304ddc64
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAL.unity
+    guid: cadc7a9c74163a54495c39f5c5d40d15
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAM.unity
+    guid: e82a9142b331fff48b433866f0bd4628
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAN.unity
+    guid: 24aa7ef45f88f514b80653d068e420ec
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/AFolder/ALevels/LevelAO.unity
+    guid: 898ac28bf19851b40a693288c5ee0f52
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BDifficulty/BDifficulty.unity
+    guid: 32e75b88a09b4a24794a6a63092917c0
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BDifficulty/BDifficultyB.unity
+    guid: e88fed76eba2e7341bec062fd78205f3
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BDifficulty/BDifficultyC.unity
+    guid: 4aa6de6ce1c51014a856148817f97b94
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBA.unity
+    guid: c98e287294ae43d45806a62435e3a4ec
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBB.unity
+    guid: eb3925da85b9bed4c9d801748f2fd4f1
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBC.unity
+    guid: 62e6d1227a2b69d4987af9aff935c0d1
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBD.unity
+    guid: e2564ab6717472c469b6062670c7562e
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBE.unity
+    guid: f37efa07e803368499849d4c97850bd3
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBF.unity
+    guid: 9a2e9be3bb8967f42ab82b13ed7d9cbe
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBG.unity
+    guid: bb978764bfe51c749adc0fbfed5dcff3
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBH.unity
+    guid: 3c59f8d087d1af3449ef704e64ca1d11
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBI.unity
+    guid: 4c6b1adc830d35642b98dc425ea84032
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBJ.unity
+    guid: c38a88df601d4854cadf66408d371c2c
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBK.unity
+    guid: 0760e8918d0a4b54e92464feee37e266
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBL.unity
+    guid: 44869ac7ef63d4d47a5e13082a424122
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBM.unity
+    guid: 8f2062eaaec1c9d4180096107e81b9bf
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBN.unity
+    guid: fa7fa513c723a134b8531e3fdd610b5a
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/BFolder/BLevels/LevelBO.unity
+    guid: c8dc5a8aa98c667499788b5ec7d4e404
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CDifficulty/CDifficulty.unity
+    guid: 2ae118e7692654848861583667c0e565
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CDifficulty/CDifficultyB.unity
+    guid: 3a52d6031df0de6419389c385f838a5c
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CDifficulty/CDifficultyC.unity
+    guid: b90622517538fba489dc292cff4128f5
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCA.unity
+    guid: ae9cb044fcbd8df498656540086b9ff9
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCB.unity
+    guid: 03a6135fa5ef01e449e76522841a28d4
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCC.unity
+    guid: 398c4dc4f92928b4aba6d952a5c10ace
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCD.unity
+    guid: 68234e99bd9f05a48890592b1deebdbd
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCE.unity
+    guid: d87135c07c66a374285aec49bea381d2
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCF.unity
+    guid: a96e6e2b6d02e8043987cd2accdd4b76
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCG.unity
+    guid: ce0f824d6e6c42d41bfe78fcc113673f
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCH.unity
+    guid: 6c3cbf34bf264fe4787df99ac205354b
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCI.unity
+    guid: a7082eb08ee68ca499877bfe904d9213
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCJ.unity
+    guid: 987721f45a0e5c248b1e47f4d5671e99
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCK.unity
+    guid: 50063b694eaf63243a3166fbfb46aae4
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCL.unity
+    guid: b603fce63463d4d4c9a52604e288c4f2
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCM.unity
+    guid: 79a2d0ead2aee9140bdbbc1faee8c6bd
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCN.unity
+    guid: 5b3486a1e3061294ebd10f2b5a19de86
+  - enabled: 1
+    path: Assets/GameScenes/AESscenes/CFolder/CLevels/LevelCO.unity
+    guid: 5498e9283de61f146af7ee5e97f368b0
+  m_configObjects: {}
